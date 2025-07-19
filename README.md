@@ -6,15 +6,23 @@
  Analyze outbound UAE traffic worldwide, identify the most cost-effective telecom service providers, and develop data-backed negotiation strategies to maximize profitability.
  
 📊 Key Analytics Insights:
+
  1️⃣ Descriptive Analysis: Assessed total cost per minute by region and provider to understand pricing landscapes.
+ 
  2️⃣ Diagnostic Analysis: Pinpointed lowest-cost providers per region for immediate optimization opportunities.
+ 
  3️⃣ Predictive Analysis: Forecasted $3.29M in potential annual savings by modeling a 1% cost reduction from the current lowest rates, and outlined specific reduction targets for competing providers.
+ 
  4️⃣ Prescriptive Analysis: Designed actionable negotiation strategies—highlighting regions where providers can achieve up to 20% cost reductions to secure business, potentially unlocking an additional $1.1M in annual savings.
  
 📌 Strategic Recommendations:
+
 Telstra: Priority provider for major regions across Australia, Asia, Europe, and Africa.
+
 TATA: Assigned to specialized regions including Melanesia, Middle Africa, Polynesia, and Southern Africa.
+
 France Telecom: Focused on Micronesia and satellite communication markets.
+
 Negotiation Targets: Regions like Central America, Central Asia, Eastern Africa, and South-Eastern Asia offer high-impact opportunities for cost reductions and strategic partnerships.
 
 💡 Key Outcome:
